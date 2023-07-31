@@ -9,7 +9,7 @@
 
 ## GITHUB
 
-» [ShutupKeshav](https://github.com/NEIMAN-AI)
+» [NEIMAN-AI](https://github.com/NEIMAN-AI)
 
 ## REQUIREMENTS
 
