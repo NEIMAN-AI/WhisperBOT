@@ -1,4 +1,4 @@
-[![NeimanWhisperBot](https://te.legra.ph/file/dc10feb84d742a8fbb31c.jpg)]
+[![NeimanWhisperBot](https://te.legra.ph/file/44ed82b29209035d052a2.jpg)]
 » One time whisper available !
 
 ## CREDITS
